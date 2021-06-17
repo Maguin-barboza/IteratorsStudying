@@ -1,5 +1,5 @@
 # IteratorsStudying
-Projeto para estudar o conceito de Iterator em C# (https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/iterators).
+Projeto criado para fixar o aprendizado de Iterator em C# (https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/iterators).
 
 
 Neste projeto, eu criei uma classe Stack onde recebe valores do tipo T passados pelo usuário através do campo de texto acima do ListView.
